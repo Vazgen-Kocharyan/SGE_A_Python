@@ -19,6 +19,7 @@ while (numero <= 10):
 ## Exercici 2.
 # Sumar els primers 10 números utilitzant for i range().
 
+
 suma = 0
 for i in range(1, 11):
 	suma += i
