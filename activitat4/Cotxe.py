@@ -4,6 +4,7 @@ class Cotxe:
 		self.model = model
 		self.color = color
 		self.potencia = potencia
+		self.transmisio = transmisio
 
 
 	# Getters
